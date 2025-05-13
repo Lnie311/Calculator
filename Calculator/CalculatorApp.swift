@@ -2,7 +2,7 @@
 //  CalculatorApp.swift
 //  Calculator
 //
-//  Created by Lino Niebaber on 11.05.25.
+//  Created by Lino Niebaber
 //
 
 import SwiftUI
